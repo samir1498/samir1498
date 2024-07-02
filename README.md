@@ -4,6 +4,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves working on in
 
 ## 🚀 About Me
 
+- 🏢 I’m currently working on [**@Simplifi'ED**](https://www.simplified.fr/)
 - 💻 I specialize in front-end and back-end development, with a focus on creating scalable and maintainable applications.
 - 🌱 Currently learning more about Azure.
 - 🏛️ Enthusiast of Clean Architecture principles.
