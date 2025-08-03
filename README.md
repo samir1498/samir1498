@@ -4,9 +4,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves working on in
 
 ## 🚀 About Me
 
-- 🏢 I’m currently working on [**@Simplifi'ED**](https://www.simplified.fr/)
 - 💻 I specialize in front-end and back-end development, with a focus on creating scalable and maintainable applications.
-- 🌱 Currently learning more about Azure.
 - 🏛️ Enthusiast of Clean Architecture principles.
 - 🎨 I enjoy blending creativity with code to design user-friendly and visually appealing applications.
 
@@ -22,6 +20,8 @@ Welcome to my GitHub profile! I'm a passionate developer who loves working on in
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-FF5A03?style=for-the-badge&logo=astro&logoColor=white)
 ![NX Monorepo](https://img.shields.io/badge/NX-143055?style=for-the-badge&logo=nx&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### Technologies I Love
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
